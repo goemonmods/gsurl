@@ -44,11 +44,11 @@ To use the tool follow Instruction below.
 
 3. Enter your long URL here & press Enter.
 
-![Enter URL](img/enterurl.jpg)
+![Enter URL](Img/enterurl.jpg)
 
 4. Boom !! You have your Shortened URL.
 
-![OUTPUT](img/output.jpg)
+![OUTPUT](Img/output.jpg)
 
 ## Contributing
 
