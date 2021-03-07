@@ -1,0 +1,2 @@
+bitly-api-py3
+colorama
