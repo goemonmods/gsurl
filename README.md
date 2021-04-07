@@ -60,4 +60,4 @@ Please make sure to update tests as appropriate.
 
 ©GOEMON MODS - 2021 Ltd.
 
-TELEGRAN ID: @iamgoemon
+TELEGRAM ID: @iamgoemon
